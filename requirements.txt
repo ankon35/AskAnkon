@@ -1,0 +1,7 @@
+langchain
+faiss-cpu     # If you're using FAISS for vector storage
+pinecone-client # If you're using Pinecone
+pdfplumber    # For PDF text extraction
+paddlepaddle  # For OCR if needed
+python-dotenv # For environment variable management
+requests      # For HTTP requests to Groq API
